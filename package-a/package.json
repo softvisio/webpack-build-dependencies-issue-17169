@@ -1,5 +1,4 @@
 {
-    "name": "package-a",
     "private": true,
     "homepage": "https://github.com/softvisio/webpack-build-dependencies-issue-17169",
     "bugs": {
