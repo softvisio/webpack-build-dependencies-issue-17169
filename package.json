@@ -2,7 +2,7 @@
     "name": "@softvisio/webpack-build-dependencies-issue-17169",
     "private": true,
     "description": "Webpack issue #17169",
-    "homepage": "https://github.com/softvisio/webpack-build-dependencies-issue-17169",
+    "homepage": "https://github.com/softvisio/webpack-build-dependencies-issue-17169?tab=readme-ov-file#readme",
     "bugs": {
         "url": "https://github.com/softvisio/webpack-build-dependencies-issue-17169/issues",
         "email": "root <root@softvisio.net>"
