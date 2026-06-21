@@ -47,7 +47,7 @@ export default {
 
             // js
             {
-                "test": /\.m?jsx?$/,
+                "test": /\.m?jsx?$/v,
                 "exclude": [],
                 "use": [
                     {
